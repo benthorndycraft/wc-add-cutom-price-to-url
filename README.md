@@ -1,5 +1,5 @@
 # wc-add-cutom-price-to-url
-Allow selected WooCommerce products to have a price set in the URL
+Allows selected WooCommerce products to have a price set in the URL. This plugin does exactly what I needed it to do. Feel free to adapt it suit your needs should anything be missing.
 
 # Installation
 Upload `woocommerce-add-price-to-url.php` to `wp-plugins` directory and activate it.
